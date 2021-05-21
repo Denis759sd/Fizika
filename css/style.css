@@ -1,0 +1,14 @@
+body {
+    background: scroll url("../images/bg.jpg");
+}
+
+.content {
+    width: 950px;
+    margin: 1rem auto;
+
+    color: white;
+}
+
+p{
+    margin-bottom: 2rem;
+}
